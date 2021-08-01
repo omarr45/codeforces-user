@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/codeforces-user/static/css/main.8ec5faa2.chunk.css",
+    "main.js": "/codeforces-user/static/js/main.c8b8fd0f.chunk.js",
+    "main.js.map": "/codeforces-user/static/js/main.c8b8fd0f.chunk.js.map",
+    "runtime-main.js": "/codeforces-user/static/js/runtime-main.3a389522.js",
+    "runtime-main.js.map": "/codeforces-user/static/js/runtime-main.3a389522.js.map",
+    "static/js/2.ef2da8bc.chunk.js": "/codeforces-user/static/js/2.ef2da8bc.chunk.js",
+    "static/js/2.ef2da8bc.chunk.js.map": "/codeforces-user/static/js/2.ef2da8bc.chunk.js.map",
+    "index.html": "/codeforces-user/index.html",
+    "static/css/main.8ec5faa2.chunk.css.map": "/codeforces-user/static/css/main.8ec5faa2.chunk.css.map",
+    "static/js/2.ef2da8bc.chunk.js.LICENSE.txt": "/codeforces-user/static/js/2.ef2da8bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a389522.js",
+    "static/js/2.ef2da8bc.chunk.js",
+    "static/css/main.8ec5faa2.chunk.css",
+    "static/js/main.c8b8fd0f.chunk.js"
+  ]
+}
